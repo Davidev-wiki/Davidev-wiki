@@ -1,0 +1,178 @@
+0. API
+https://docs.oracle.com/javase/8/
+https://www.w3schools.com/
+https://jquery.com/
+
+
+
+1. 커뮤니티
+
+https://stackoverflow.com/ | Stack Overflow - Where Developers Learn, Share, & Build Careers
+https://okky.kr/ | OKKY - All That Developer
+https://github.com/ | GitHub - 세계가 소프트웨어를 빌드하는 곳 · GitHub
+https://hashcode.co.kr/ | 개발자를 위한 QA 서비스 | Hashcode
+https://throwbug.com/ | throw bug
+https://devstu.co.kr/ | Devstu
+https://devsnote.com/ | 뎁스노트 :: 개발자들의 메인 페이지
+
+
+
+2. 개발자 준비
+
+https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%97%85-%ED%86%B5%ED%95%A9%ED%8E%B8/lecture/66006?tab=note&speed=1.75&mm=null | 비전공자를 위한 개발자 취업 올인원 가이드 [통합편] - 인프런 | 학습 페이지
+https://www.youtube.com/watch?v=U0YWdnSKDfw | 개발자가 실력을 향상시킬 방법은 ○○뿐이에요_우아한형제들 김민태의 이야기 - YouTube
+https://speakerdeck.com/mingrammer/hoesa-baggeseo-seongjanghagi | 회사 밖에서 성장하기 - Speaker Deck
+https://www.slideshare.net/charsyam2/how-to-become-better-engineer | How To Become Better Engineer
+https://www.moreagile.net/2016/02/learning-new-stuff.html | MORE AGILE: 어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법
+https://velog.io/@city7310/%EB%82%B4%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D | 내게 실용적이었던 프로그래밍 공부 방법들
+https://mnpk.medium.com/%EB%B2%88%EC%97%AD-%EB%8D%94-%EB%82%98%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-8-%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-45ea6cd70114 | [번역] 더 나은 개발자가 되는 8 가지 방법. 이 글은 NewRelic 블로그의 “8 Ways to Become a… | by Minwoo Park | Medium
+https://brunch.co.kr/@jypthemiracle/14 | [번역] 개발 배우기가 정말 어려운 이유
+https://github.com/Integerous/goQuality-dev-contents | GitHub - Integerous/goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }
+https://www.youtube.com/watch?v=nN7MgO3d6cE | 개발자의 성장에 대한 이야기 (주니어, 기술, 팀, 이직, 자기PR) - YouTube
+https://okky.kr/article/680617 | OKKY - 비전공자분들께 말씀드리는 제 경험과 조언
+https://helloworld.kurly.com/blog/php-development-in-kurly/ | 마켓컬리에서의 PHP 이야기 - 컬리 기술 블로그
+https://2019.stateofjs.com/ | The State of JavaScript 2019
+https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/ | State of JS 2020: Front-end Frameworks
+https://jbee.io/essay/for_junior_frontend_developer/ | 신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요? | JBEE.io
+https://www.youtube.com/watch?v=Xcy2Pq6LABk | 프로그래밍 학습 방법 - YouTube
+https://evan-moon.github.io/2019/08/26/how-does-developer-study/ | 개발자가 공부로 살아남는 방법 | Evans Library
+https://techblog.woowahan.com/2555/ | 학습에 실패한 이야기 | 우아한형제들 기술블로그
+https://euncho.medium.com/%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EB%B6%80%ED%96%88%EB%8A%94%EA%B0%80-709df6714c42 | 나는 어떻게 공부했는가?. 성장하는 개발자를 위한 팁 | by 조은, John Cho | Medium
+https://zdnet.co.kr/view/?no=20170616090644 | 개발자의 평생공부 - ZDNet korea
+https://ahnheejong.name/articles/becoming-better-programmer/ | 프로그래머로서의 성장을 도왔던 태도들
+https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474 | 프레임워크 공부를 멈춰라 | by Jayce Park | Medium
+https://www.slideshare.net/hodoogwaja/ss-81938573 | 인프런 - 스타트업 인프랩 시작 사례
+https://geonlee.tistory.com/171 | 당신의 클론 코딩은 왜 실패하는가?
+https://opentutorials.org/course/3084/18890 | 인터넷을 여는 열쇠 : 서버와 클라이언트 - 생활코딩
+https://d2.naver.com/news/3435170 | 백엔드 개발자를 꿈꾸는 학생개발자에게
+https://jbee.io/essay/for_junior_frontend_developer/ | 신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요? | JBEE.io
+http://www.looah.com/article/view/2054 | 2016년에 자바스크립트를 배우는 기분 | Looah
+https://www.youtube.com/watch?v=IXtfqhBIQos | 프론트엔드 개발 학습 방법 | 캡틴판교의 프런트엔드 개발 상담소 - YouTube
+https://bcho.tistory.com/1325 | 조대협의 블로그 :: SRE - #1 SRE/DEVOPS의 개념과 SRE는 무엇을하는가?
+https://blog.rhostem.com/posts/2018-07-22-web-architecture-101 | [번역] 웹 아키텍쳐 입문 | blog.rhostem.com
+https://www.youtube.com/watch?v=8mjeJpHtLVQ | 데이터 AI 사이언티스트 하지마세요 - YouTube
+https://www.youtube.com/watch?v=M5v1nXiUaOI | Why I left my Data Science Job at FANG (Facebook Amazon Netflix Google) - YouTube
+https://www.youtube.com/c/kyleschool | 카일스쿨 - YouTube
+https://github.com/Team-Neighborhood/I-want-to-study-Data-Science | GitHub - Team-Neighborhood/I-want-to-study-Data-Science: 데이터 사이언스를 공부하고 싶은 분들을 위한 글
+https://www.notion.so/ab180/Inside-AB180-1-5fdc7377ce6646f1a66c7007f4b38fa6 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+https://inspirit941.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-vs-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8-vs-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EA%B0%80-%EC%B0%A8%EC%9D%B4%EA%B0%80-%EB%AD%98%EA%B9%8C | 데이터 엔지니어 vs 데이터 사이언티스트 vs 데이터 분석가, 차이가 뭘까? :: 관찰과 질문, 그리고 데이터
+
+
+
+3. 스터디
+
+https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%97%85-%ED%86%B5%ED%95%A9%ED%8E%B8/lecture/66006?tab=note&speed=1.75&mm=null | 비전공자를 위한 개발자 취업 올인원 가이드 [통합편] - 인프런 | 학습 페이지
+http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788991268807 | 프로그래머의 길 멘토에게 묻다(원서/번역서: [해외]Apprenticeship Patterns (Paperback)) | 데이브 후버 | 인사이트 - 교보문고
+http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160507621&orderClick=LAG&Kc= | 커리어 스킬 | 존 손메즈 | 길벗 - 교보문고
+https://asfirstalways.tistory.com/146 | [개발] 자바 기본서 추천에 대해서 / 대표적인 기본서 비교
+https://www.sangkon.com/good_books_for_dev_2018/ | 내 마음대로 선정한 개발자/프로그래머 추천도서(필독서) 50선(20190409)
+https://johngrib.github.io/wiki/my-favorite-books/ | 나의 성장을 도와준 고마운 책들 - 기계인간 John Grib
+https://ryan-han.com/post/etc/books/ | 내가 읽은+읽을 개발서적 정리 | Integerous DevLog
+https://coding-groot.tistory.com/93 | 나의 온라인 컴퓨터공학 공부
+https://www.youtube.com/watch?v=Tq3W8UyltFs&list=PLy-g2fnSzUTAaDcLW7hpq0e8Jlt7Zfgd6 | 컴맹을 위한 Go 언어 기초 프로그래밍 기초 강좌 1 - 트랜지스터를 알아보자 - YouTube
+http://www.kocw.net/home/search/kemView.do?kemId=1046323&ar=pop | 운영체제 - 이화여자대학교 | KOCW 공개 강의
+https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye | (41) Crash Course Computer Science Preview - YouTube
+https://www.youtube.com/user/damazzang/videos | 엔지니어대한민국 - YouTube
+https://www.youtube.com/watch?v=Lbh8Bh_SEzU | Linux Sysadmin Basics 02 -- Basic Commands - YouTube
+https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%A7%A8%EB%93%9C%EB%9D%BC%EC%9D%B8-%ED%88%B4 | 인프런에서 새로운 메시지가 도착했습니다.
+https://www.edwith.org/search/index?categoryId=72 | 강좌검색 : edwith
+https://www.youtube.com/watch?v=Bt11jaoqt_Y&list=PL2mzT_U4XxDm7p6g1o3KeQMsyRLfzSaVW | 예제로 알아보는 백트래킹 [기술면접 라이브코딩] LC #22 Generate Parentheses - YouTube
+https://www.youtube.com/watch?v=go8y4-vVg3Y&list=PL2mzT_U4XxDl8PP-jMk4rt6BPzBtS__pQ | 리트코드 대장문제 Skyline을 풀어봅시다. 우선순위큐 활용 고급 [기술면접 라이브코딩] LC #218 The Skyline Problem - YouTube
+https://www.youtube.com/c/TaehoonMoon/videos | Taehoon - YouTube
+https://www.youtube.com/user/newlec1/playlists | 뉴렉처 - YouTube
+https://www.youtube.com/channel/UC2nkWbaJt1KQDi2r2XclzTQ | 얄팍한 코딩사전 - YouTube
+https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC | 인프런에서 새로운 메시지가 도착했습니다.
+https://rinae.dev/posts/how-i-use-stackoverflow-kor | [번역] 내가 StackOverflow를 사용하는 방법 | rinae's devlog
+https://velog.io/@janeljs/series/codesquad | 시리즈 | 마스터즈 코스 - janeljs.log
+https://evan-moon.github.io/2019/09/09/major-is-not-important/ | 비전공 개발자가 전공자보다 정말 불리할까? | Evans Library
+https://brunch.co.kr/@imagineer/56 | 오, 캡틴! 나의 캡틴!
+http://www.yes24.com/Product/Goods/67015072 | 인문학도, 개발자되다 - YES24
+https://www.newlecture.com/ | 코딩 전문가를 만들기 위한 온라인 강의 시스템
+https://www.youtube.com/user/newlec1/playlists | 뉴렉처 - YouTube
+https://backlog.com/git-tutorial/kr/intro/intro1_1.html | Git을 이용한 버전 관리 【Git의 기본】 | 누구나 쉽게 이해할 수 있는 Git 입문~버전 관리를 완벽하게 이용해보자~ | Backlog
+https://cafe.naver.com/javachobostudy | 남궁성의 코드초보스터디(자바 java, c언어, javascript, python : 네이버 카페
+https://jojoldu.tistory.com/302?category=689637 | 5) 3번째 직장에 오기까지 - 5. 두번째 직장 #2
+https://gmlwjd9405.github.io/2018/05/05/how-to-study-for-a-developer.html | [공부법] 같이 개발 공부를 잘 하는 법, 입사 후에 더욱 발전하는 법 - Heee's Development Blog
+https://www.liveabout.com/what-does-til-stand-for-at-reddit-2483374 | What Does TIL Stand for on Reddit?
+https://github.com/cheese10yun/TIL | GitHub - cheese10yun/TIL: Today I Learned. 그날 그날 모든 활동들을 정리
+https://github.com/HomoEfficio/dev-tips | GitHub - HomoEfficio/dev-tips: 개발하다 마주쳤던 작은 문제들과 해결 방법 정리
+https://github.com/namjunemy/TIL | GitHub - namjunemy/TIL: Today I Learned / 기억은 기록을 이길 수 없다.
+http://milooy.github.io/TIL/ | Today Yurim Learned
+https://gist.github.com/ihoneymon/652be052a0727ad59601 | 마크다운(Markdown) 사용법 · GitHub
+https://github.com/Integerous/TIL/blob/master/ETC/BreadCrumbs.md | TIL/BreadCrumbs.md at master · Integerous/TIL · GitHub
+
+
+
+4. 취업 관련 reference
+
+https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%97%85-%ED%86%B5%ED%95%A9%ED%8E%B8/lecture/66006?tab=note&speed=1.75&mm=null | 비전공자를 위한 개발자 취업 올인원 가이드 [통합편] - 인프런 | 학습 페이지
+https://www.inflearn.com/course/%EB%85%B8%EC%85%98-notion-%ED%99%9C%EC%9A%A9 | [무료] 노션(notion) 완벽 활용법 - 인프런 | 강의
+https://www.notion.so/Notion-1ad7ccbc41a44298814a4820d4acb14e | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fcjunekim%2Fposts%2F3477505705611305 | Facebook에 로그인
+https://www.youtube.com/watch?v=HPm_JdGOfS4 | [OKKY 세미나] 황후순 - IT 회사 탐방기 - YouTube
+https://jojoldu.tistory.com/274 | [OKKY] IT 회사 탐방기 세미나 참석후기
+https://www.notion.so/Wonny-e64e2e55653c4d8b8b632118b36bdd72 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+https://jbee.io/about/ | About Jbee | JBEE.io
+https://jojoldu.github.io/ | 이동욱 | Java 백엔드 엔지니어
+https://resume.yowu.dev/ | Resume: Yongwoo Yu
+https://jojoldu.tistory.com/250 | 1) 스프링부트로 웹 서비스 출시하기 - 1. SpringBoot & Gradle & Github 프로젝트 생성하기
+http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788965402602&orderClick=LEa&Kc= | 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 | 이동욱 | 프리렉 - 교보문고
+https://co-duck.com/ | CODUCK
+https://taegon.kim/archives/7107 | 개발자가 블로그를 운영해야 할 이유 - 코드쓰는사람
+https://jbee.io/essay/writing-of-developers/ | 개발자의 글쓰기, 기술 블로그에 대하여 | JBEE.io
+https://blog.naver.com/2___j | . : 네이버 블로그
+https://jojoldu.tistory.com/ | 기억보단 기록을
+https://brunch.co.kr/@springboot#articles | 에디의 기술블로그의 브런치
+https://medium.com/@moonformeli | Moon – Medium
+https://medium.com/@gun0912 | Ted Park – Medium
+https://www.notion.so/younho9-Blog-9ed630c8603541bab20662b4854a891f | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+https://iam.nyanye.com/ | 다운
+https://jbee.io/ | Home | JBEE.io
+https://johngrib.github.io/ | 기계인간 John Grib
+https://carbon.now.sh/ | Carbon | Create and share beautiful images of your source code
+https://jamstack.org/generators/ | Static Site Generators - Top Open Source SSGs | Jamstack
+https://github.com/jojoldu | jojoldu (DongUk Lee) · GitHub
+https://github.com/JunilHwang | JunilHwang (junilhwang) · GitHub
+https://jojoldu.tistory.com/402 | 일일커밋의 효용성
+https://jojoldu.tistory.com/464 | 일일커밋 3주년 회고
+https://junilhwang.github.io/TIL/Review/2020-year/end/ | 주니어 개발자의 2020년 회고 | 개발자 황준일
+https://rinae.dev/posts/how-to-contribute-oss | 차근차근 오픈소스에 기여해보기 (동기부여 편) | rinae's devlog
+https://blog.cometkim.kr/posts/mattermost-contribution/how-i-grow-up-with-mattermost-community/ | Hyeseong's Blog - 나는 어떻게 오픈소스 커뮤니티를 통해 성장했나
+https://opensource.guide/ko/how-to-contribute/ | 오픈소스에 기여하는 방법 | Open Source Guides
+https://github.com/Integerous/all-in-one/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/portfolio.txt | all-in-one/portfolio.txt at main · Integerous/all-in-one · GitHub
+https://github.com/Integerous/all-in-one/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/project.txt | all-in-one/project.txt at main · Integerous/all-in-one · GitHub
+http://codeforces.com/ | Codeforces
+https://www.youtube.com/watch?v=F4rykKLcduI | Interview with a Competitive Programmer - YouTube
+https://leetcode.com/ | LeetCode - The World's Leading Online Programming Learning Platform
+http://www.yes24.com/Product/Goods/58290453 | 알고리즘 도감 - YES24
+https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms&hl=ko | 알고리즘 도감 - Google Play 앱
+http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788968482274 | 누워서 읽는 알고리즘 | 임백준 | 한빛미디어 - 교보문고
+http://www.yes24.com/Product/Goods/37885448 | Hello Coding 그림으로 개념을 이해하는 알고리즘 - YES24
+http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160505061&orderClick=&Kc= | 누구나 자료 구조와 알고리즘(원서/번역서: [해외]A Common-Sense Guide to Data Structures and Algorithms (Paperback)) | 제이 웬그로우 | 길벗 - 교보문고
+https://www.youtube.com/watch?v=6Iq5iMCVsXA | [자료구조 알고리즘] 빅오(Big-O)표기법 완전정복 - YouTube
+https://www.hanbit.co.kr/store/books/look.php?p_code=B6297351572 | IT CookBook, 자바로 배우는 쉬운 자료구조
+https://www.youtube.com/user/damazzang/videos | 엔지니어대한민국 - YouTube
+https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C | [무료] 영리한 프로그래밍을 위한 알고리즘 강좌 - 인프런 | 강의
+https://digitaldefynd.com/best-data-structures-algorithms-tutorial-course-certification/ | 15 Best + Free Data Structures & Algorithms Course & Certification [2021 AUGUST]
+https://github.com/JaeYeopHan | JaeYeopHan (Jbee) · GitHub
+https://gyoogle.dev/blog/ | 👨🏻‍💻 Tech Interview
+https://github.com/WeareSoft/tech-interview | GitHub - WeareSoft/tech-interview: 🙍 tech interview
+https://github.com/yangshun/front-end-interview-handbook/tree/master/contents/kr | front-end-interview-handbook/contents/kr at master · yangshun/front-end-interview-handbook · GitHub
+https://www.youtube.com/watch?v=1xJU8HfBREY&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH | [10분 테코톡] 🍦라빈의 Spring Batch - YouTube
+https://www.youtube.com/watch?v=vZRmCbl871I&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=65 | [10분 테코톡] 👌던의 JVM의 Garbage Collector - YouTube
+https://techinterviewhandbook.org/ | Tech Interview Handbook | Tech Interview Handbook
+https://brunch.co.kr/@goodgdg/142 | 지원자도 회사를 평가합니다. 이렇게요.
+https://brunch.co.kr/@goodgdg/142 | 지원자도 회사를 평가합니다. 이렇게요.
+https://www.canva.com/ko_kr/ | 공동작업을 통해 무료로 멋진 그래픽 디자인을 만들어 보세요
+https://namu.wiki/w/SI | SI - 나무위키
+https://www.popit.kr/si-%EA%B0%9C%EB%B0%9C-10%EB%85%84%EC%B0%A8%EC%9D%B8%EB%8D%B0-%EC%BD%94%EB%93%9C-%EC%A2%80-%EB%B4%90%EC%A3%BC%EC%84%B8%EC%9A%94/ | SI 개발 10년차인데 코드 좀 봐주세요 | Popit
+https://okky.kr/article/501488 | OKKY - 개발자의 삶 - SI 산업의 문제점 (2)
+https://brunch.co.kr/@javajigi/4 | 후배 개발자에게 - 2019년
+https://preamtree.tistory.com/132 | SI회사에 입사하기 전 읽으면 좋은 글 - SI의 장점
+https://preamtree.tistory.com/133 | SI회사에 입사하기 전 읽으면 좋은 글 - SI의 단점
+https://ohseyong.com/?p=3123 | 7년 차 SI 개발자가 솔루션 회사 이직 후 2년 간 배운 것 – 오세용닷컴
+https://www.facebook.com/groups/codingeverybody/permalink/4294604973913339 | 생활코딩 : 코딩과 무관합니다 | Facebook
+https://github.com/milooy/remote-or-flexible-work-company-in-korea | GitHub - milooy/remote-or-flexible-work-company-in-korea: 한국에서 원격근무 혹은 자율출퇴근이 되는 회사 리스트를 아카이브합니다
+https://www.youtube.com/watch?v=qL9gXibI8P4 | 본격 비급 - 회사와 개발자! 같이 성장할 수 있을까? 그 비법은 무엇일까? #1 - YouTube
+https://www.youtube.com/watch?v=euxI9vljXw8 | Ep.28 입사/이직할 스타트업을 고르는 방법 - 취업편 - YouTube
+https://speller.cs.pusan.ac.kr/ | 한국어 맞춤법/문법 검사기
